@@ -10,7 +10,7 @@ import pandas as pd
 
 
 
-df = pd.read_csv("data/preprocess/Processed_Temperature_change_Data.csv")
+df = pd.read_csv("data/preprocess/Processed_Temperature_Change_Data.csv")
 countries = df["Country Name"]
 
 
