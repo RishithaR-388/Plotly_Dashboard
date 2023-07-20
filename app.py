@@ -15,7 +15,7 @@ countries = df["Country Name"]
 
 
 app = dash.Dash(__name__)
-
+server = app.server
 
 app.layout = html.Div([
     
