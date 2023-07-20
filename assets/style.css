@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(124, 102, 60);
+  margin: 2%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  
+}
+
+.description{
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+  margin-top: 2px;
+  background-color:rgb(77, 63, 37);
+  padding: 1.2px;
+}
+
+.text{
+  color: white;
+  font-size: 20px;
+}
+.dcc_comp{
+  margin: 0;
+  padding: 5px;
+  width: calc(100%-40px);
+
+}
+
+.dropdown {
+  width: 130px;
+  padding: 0.6%;
+  align-self: auto;
+  background: rgb(77, 63, 37);
+  color: black;
+}
+
+.graph{
+  margin-top: 2%;
+  background: black;
+  margin-bottom: 3%;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 5px 5px 5px #0c1017;
+}
+
